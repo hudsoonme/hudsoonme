@@ -1,4 +1,5 @@
-<img width="1580" height="888" alt="dd4a5e069cd0f2b726899" src="https://github.com/user-attachments/assets/781c04db-b0e7-4b65-ac50-4c569dc25c7d" />
+<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/888ecc00-1874-46fa-9b69-ab80f458d3ed" />
+
 
 
 - 👋 Hi, I’m @hudsoonme
