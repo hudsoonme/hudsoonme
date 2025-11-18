@@ -26,8 +26,7 @@
   <br><br>
 
   <!-- Streak + Graph в фиолетово-розовой гамме -->
-  <img src="https://streak-stats.demolab.com?user=hudsoonme&theme=dracula&hide_border=true&background=1a1b27&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6&sideLabels=ffffff&dates=8be9fd" width="49.5%"/>
-  
+    
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hudsoonme&theme=dracula&hide_border=true&bg_color=1a1b27&color=ff79c6&line=bd93f9&point=ffffff" width="49.5%"/>
 
   <br><br>
